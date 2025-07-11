@@ -1,0 +1,4 @@
+baseURL = 'https://gylmar.com/'
+languageCode = 'en-us'
+title = "gyl's thought bubbles 🫧"
+theme = 'ananke'
