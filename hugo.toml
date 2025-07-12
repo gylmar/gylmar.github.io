@@ -1,6 +1,6 @@
 baseURL = 'https://gylmar.com/'
 languageCode = 'en-us'
-title = "gyl's thought bubbles 🫧"
+title = "gyl's still lines"
 theme = 'ananke'
 
 [caches]
